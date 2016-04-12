@@ -1,0 +1,4 @@
+Tienes que estar dentro de la carpeta Clock
+git add .
+git commit -m "Mi codigo"
+git push -u origin master
